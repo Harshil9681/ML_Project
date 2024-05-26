@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20sci/MLops/end-to-end-ML/ML_Project/mlruns/0/94ba12a82ff34dce88eef4c4a6d42d5d/artifacts
+end_time: 1716724730488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94ba12a82ff34dce88eef4c4a6d42d5d
+run_name: spiffy-panda-341
+run_uuid: 94ba12a82ff34dce88eef4c4a6d42d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716724721182
+status: 3
+tags: []
+user_id: harshil's computer

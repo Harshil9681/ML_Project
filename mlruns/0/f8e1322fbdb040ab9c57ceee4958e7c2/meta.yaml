@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20sci/MLops/end-to-end-ML/ML_Project/mlruns/0/f8e1322fbdb040ab9c57ceee4958e7c2/artifacts
+end_time: 1716747474305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8e1322fbdb040ab9c57ceee4958e7c2
+run_name: languid-cod-224
+run_uuid: f8e1322fbdb040ab9c57ceee4958e7c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716747468293
+status: 3
+tags: []
+user_id: harshil's computer

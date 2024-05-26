@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20sci/MLops/end-to-end-ML/ML_Project/mlruns/0/660aa62b79594c899ab146cfc79d01d0/artifacts
+end_time: 1716747346487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 660aa62b79594c899ab146cfc79d01d0
+run_name: crawling-seal-762
+run_uuid: 660aa62b79594c899ab146cfc79d01d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716747336484
+status: 3
+tags: []
+user_id: harshil's computer
